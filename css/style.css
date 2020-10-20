@@ -1,0 +1,10 @@
+.keys {
+    display: flex;
+    padding: 10px;
+}
+
+.key {
+    display: inline-flexbox;
+    padding: 10px;
+    margin: 10px;
+}
