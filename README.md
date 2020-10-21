@@ -1,1 +1,4 @@
-### Simple drum machine test made with vanilla javascript and HTML/CSS 
+### Drums in Space 🥁 🛰
+
+
+A simple drum machine and space
